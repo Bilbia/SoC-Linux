@@ -1,0 +1,1487 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+                              obj/default/hello_world.o (__udivsi3)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+                              obj/default/hello_world.o (__mulsi3)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+                              obj/default/hello_world.o (puts)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o) (strlen)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o) (__sinit)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (_fwalk)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (_global_impure_ptr)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (memchr)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (memcpy)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (memmove)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (memset)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (__sread)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o) (_write_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o) (_close_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o) (__sflush_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o) (_free_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o) (errno)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o) (_read_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o) (_fstat_r)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o) (_isatty_r)
+../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o) (close)
+../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_close.o) (alt_fd_list)
+../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_close.o) (alt_errno)
+../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o) (fstat)
+../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o) (isatty)
+../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+                              ../niosLab2_bsp//obj/HAL/src/crt0.o (alt_load)
+../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o) (lseek)
+../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+                              ../niosLab2_bsp//obj/HAL/src/crt0.o (alt_main)
+../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o) (__malloc_lock)
+../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o) (read)
+../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_close.o) (alt_release_fd)
+../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o) (sbrk)
+../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+                              obj/default/hello_world.o (usleep)
+../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o) (write)
+../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (alt_irq_init)
+../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (_do_ctors)
+../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (_do_dtors)
+../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o) (open)
+../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_open.o) (alt_find_dev)
+../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_open.o) (alt_find_file)
+../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_open.o) (alt_get_fd)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (atexit)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_main.o) (exit)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+                              ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o) (memcmp)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o) (__call_exitprocs)
+../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+                              /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000008000 0x0000000000000020
+onchip_memory2_0 0x0000000000008020 0x0000000000007fe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../niosLab2_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libstdc++.a
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libm.a
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a
+START GROUP
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a
+LOAD ../niosLab2_bsp//libhal_bsp.a
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libm.a
+END GROUP
+LOAD /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a
+                0x0000000000008000                __alt_mem_onchip_memory2_0 = 0x8000
+
+.entry          0x0000000000008000       0x20
+ *(.entry)
+ .entry         0x0000000000008000       0x20 ../niosLab2_bsp//obj/HAL/src/crt0.o
+                0x0000000000008000                __reset
+
+.exceptions     0x0000000000008020        0x0
+                0x0000000000008020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ *(.exceptions.notirq.label)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ *(.exceptions.exit.label)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ *(.exceptions)
+                0x0000000000008020                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000008020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000008020     0x46f4
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000008020       0x3c ../niosLab2_bsp//obj/HAL/src/crt0.o
+                0x0000000000008020                _start
+ .text          0x000000000000805c      0x120 obj/default/hello_world.o
+                0x000000000000805c                main
+ .text          0x000000000000817c      0x1b4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+                0x000000000000817c                __divsi3
+                0x00000000000081fc                __modsi3
+                0x0000000000008270                __udivsi3
+                0x00000000000082d4                __umodsi3
+ .text          0x0000000000008330       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+                0x0000000000008330                __mulsi3
+ .text          0x0000000000008358        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .text._puts_r  0x0000000000008358       0xcc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+                0x0000000000008358                _puts_r
+ .text.puts     0x0000000000008424       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+                0x0000000000008424                puts
+ .text          0x0000000000008434        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000008434       0x98 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+                0x0000000000008434                strlen
+ .text          0x00000000000084cc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x00000000000084cc        0x8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000000084d4        0xc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000084d4                _cleanup_r
+ .text.__sinit.part.0
+                0x00000000000084e0      0x168 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000008648        0x8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000008650       0x78 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x0000000000008650                __sfmoreglue
+ .text.__sfp    0x00000000000086c8       0xfc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000086c8                __sfp
+ .text._cleanup
+                0x00000000000087c4       0x14 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087c4                _cleanup
+ .text.__sinit  0x00000000000087d8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087d8                __sinit
+ .text.__sfp_lock_acquire
+                0x00000000000087e8        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087e8                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00000000000087ec        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087ec                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x00000000000087f0        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087f0                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x00000000000087f4        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087f4                __sinit_lock_release
+ .text.__fp_lock_all
+                0x00000000000087f8       0x14 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x00000000000087f8                __fp_lock_all
+ .text.__fp_unlock_all
+                0x000000000000880c       0x14 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                0x000000000000880c                __fp_unlock_all
+ .text          0x0000000000008820        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000008820      0x4cc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+                0x0000000000008820                __sfvwrite_r
+ .text          0x0000000000008cec        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000008cec       0x98 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+                0x0000000000008cec                _fwalk
+ .text._fwalk_reent
+                0x0000000000008d84       0xa8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+                0x0000000000008d84                _fwalk_reent
+ .text          0x0000000000008e2c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .text          0x0000000000008e2c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000008e2c      0x7e0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x0000000000008e2c                _malloc_r
+ .text          0x000000000000960c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .text.memchr   0x000000000000960c       0xd4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+                0x000000000000960c                memchr
+ .text          0x00000000000096e0        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000000096e0      0x100 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+                0x00000000000096e0                memcpy
+ .text          0x00000000000097e0        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .text.memmove  0x00000000000097e0      0x12c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+                0x00000000000097e0                memmove
+ .text          0x000000000000990c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .text.memset   0x000000000000990c       0xf0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+                0x000000000000990c                memset
+ .text          0x00000000000099fc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x00000000000099fc      0x564 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+                0x00000000000099fc                _realloc_r
+ .text          0x0000000000009f60        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000009f60       0x58 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+                0x0000000000009f60                _sbrk_r
+ .text          0x0000000000009fb8        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .text.__sread  0x0000000000009fb8       0x54 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                0x0000000000009fb8                __sread
+ .text.__seofread
+                0x000000000000a00c        0x8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                0x000000000000a00c                __seofread
+ .text.__swrite
+                0x000000000000a014       0x80 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                0x000000000000a014                __swrite
+ .text.__sseek  0x000000000000a094       0x5c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                0x000000000000a094                __sseek
+ .text.__sclose
+                0x000000000000a0f0        0x8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                0x000000000000a0f0                __sclose
+ .text          0x000000000000a0f8        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .text._write_r
+                0x000000000000a0f8       0x64 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+                0x000000000000a0f8                _write_r
+ .text          0x000000000000a15c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x000000000000a15c      0x15c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+                0x000000000000a15c                __swsetup_r
+ .text          0x000000000000a2b8        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .text._close_r
+                0x000000000000a2b8       0x58 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+                0x000000000000a2b8                _close_r
+ .text          0x000000000000a310        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .text._fclose_r
+                0x000000000000a310       0xf8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+                0x000000000000a310                _fclose_r
+ .text.fclose   0x000000000000a408       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+                0x000000000000a408                fclose
+ .text          0x000000000000a418        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x000000000000a418      0x228 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+                0x000000000000a418                __sflush_r
+ .text._fflush_r
+                0x000000000000a640       0x60 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+                0x000000000000a640                _fflush_r
+ .text.fflush   0x000000000000a6a0       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+                0x000000000000a6a0                fflush
+ .text          0x000000000000a6c8        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x000000000000a6c8      0x11c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+                0x000000000000a6c8                _malloc_trim_r
+ .text._free_r  0x000000000000a7e4      0x2fc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+                0x000000000000a7e4                _free_r
+ .text          0x000000000000aae0        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .text          0x000000000000aae0        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x000000000000aae0       0x64 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+                0x000000000000aae0                _lseek_r
+ .text          0x000000000000ab44        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x000000000000ab44       0x98 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+                0x000000000000ab44                __swhatbuf_r
+ .text.__smakebuf_r
+                0x000000000000abdc      0x140 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+                0x000000000000abdc                __smakebuf_r
+ .text          0x000000000000ad1c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .text._read_r  0x000000000000ad1c       0x64 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+                0x000000000000ad1c                _read_r
+ .text          0x000000000000ad80        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x000000000000ad80       0x60 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+                0x000000000000ad80                _fstat_r
+ .text          0x000000000000ade0        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x000000000000ade0       0x58 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+                0x000000000000ade0                _isatty_r
+ .text          0x000000000000ae38      0x118 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+                0x000000000000ae74                close
+ .text          0x000000000000af50       0x2c ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .text          0x000000000000af7c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .text          0x000000000000af7c       0xf8 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+                0x000000000000afb8                fstat
+ .text          0x000000000000b074       0xec ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+                0x000000000000b0b0                isatty
+ .text          0x000000000000b160       0xec ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+                0x000000000000b1c8                alt_load
+ .text          0x000000000000b24c      0x11c ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+                0x000000000000b288                lseek
+ .text          0x000000000000b368       0x7c ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+                0x000000000000b368                alt_main
+ .text          0x000000000000b3e4       0x48 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                0x000000000000b3e4                __malloc_lock
+                0x000000000000b408                __malloc_unlock
+ .text          0x000000000000b42c      0x144 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+                0x000000000000b468                read
+ .text          0x000000000000b570       0x70 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+                0x000000000000b570                alt_release_fd
+ .text          0x000000000000b5e0       0xb8 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+                0x000000000000b5e0                sbrk
+ .text          0x000000000000b698       0x30 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+                0x000000000000b698                usleep
+ .text          0x000000000000b6c8      0x140 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+                0x000000000000b704                write
+ .text          0x000000000000b808       0xa4 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+                0x000000000000b83c                alt_irq_init
+                0x000000000000b878                alt_sys_init
+ .text          0x000000000000b8ac       0xc0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x000000000000b8ac                altera_avalon_jtag_uart_read_fd
+                0x000000000000b90c                altera_avalon_jtag_uart_write_fd
+ .text          0x000000000000b96c       0xec ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x000000000000b96c                altera_avalon_jtag_uart_read
+ .text          0x000000000000ba58       0x94 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x000000000000ba58                altera_avalon_jtag_uart_write
+ .text          0x000000000000baec      0x158 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x000000000000baec                alt_busy_sleep
+ .text          0x000000000000bc44       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                0x000000000000bc44                alt_dcache_flush_all
+ .text          0x000000000000bc64       0xe4 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                0x000000000000bca0                alt_dev_llist_insert
+ .text          0x000000000000bd48       0x64 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+                0x000000000000bd48                _do_ctors
+ .text          0x000000000000bdac       0x64 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+                0x000000000000bdac                _do_dtors
+ .text          0x000000000000be10       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                0x000000000000be10                alt_icache_flush_all
+ .text          0x000000000000be30      0x150 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+                0x000000000000bf04                alt_io_redirect
+ .text          0x000000000000bf80      0x278 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+                0x000000000000c098                open
+ .text          0x000000000000c1f8       0x24 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x000000000000c1f8                altera_nios2_gen2_irq_init
+ .text          0x000000000000c21c       0x90 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+                0x000000000000c21c                alt_find_dev
+ .text          0x000000000000c2ac      0x108 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+                0x000000000000c2ac                alt_find_file
+ .text          0x000000000000c3b4       0xb8 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+                0x000000000000c3b4                alt_get_fd
+ .text          0x000000000000c46c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .text.atexit   0x000000000000c46c       0x14 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+                0x000000000000c46c                atexit
+ .text          0x000000000000c480        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .text.exit     0x000000000000c480       0x34 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+                0x000000000000c480                exit
+ .text          0x000000000000c4b4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x000000000000c4b4       0x78 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+                0x000000000000c4b4                memcmp
+ .text          0x000000000000c52c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x000000000000c52c       0x90 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+                0x000000000000c52c                __register_exitproc
+ .text          0x000000000000c5bc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x000000000000c5bc      0x120 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+                0x000000000000c5bc                __call_exitprocs
+ .text          0x000000000000c6dc       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+                0x000000000000c6dc                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x000000000000c714                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x000000000000c714                PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                0x000000000000c714                PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                0x000000000000c714                PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                0x000000000000c714                PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x000000000000c714                . = ALIGN (0x4)
+
+.rodata         0x000000000000c714       0x44
+                0x000000000000c714                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x000000000000c714                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000000c714        0xc obj/default/hello_world.o
+ .rodata._puts_r.str1.4
+                0x000000000000c720        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+                                          0x2 (size before relaxing)
+ .rodata        0x000000000000c724        0xa ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ *fill*         0x000000000000c72e        0x2 
+ .rodata        0x000000000000c730       0x11 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ *fill*         0x000000000000c741        0x3 
+ .rodata        0x000000000000c744       0x11 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ *(.rodata1)
+                0x000000000000c758                . = ALIGN (0x4)
+ *fill*         0x000000000000c755        0x3 
+                0x000000000000c758                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x000000000000c714                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x000000000000c758      0xa2c load address 0x000000000000d184
+                0x000000000000c758                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x000000000000c758                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000000000c758        0x0 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .data          0x000000000000c758        0x0 obj/default/hello_world.o
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .data          0x000000000000c758        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x000000000000c758      0x424 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .data          0x000000000000cb7c        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x000000000000cb7c      0x408 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000cb7c                __malloc_av_
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .data          0x000000000000cf84        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .data          0x000000000000cf84        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .data          0x000000000000cf84      0x1a8 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+                0x000000000000cf84                alt_dev_null
+                0x000000000000cfac                alt_fd_list
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .data          0x000000000000d12c        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .data          0x000000000000d12c       0x2c ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .data          0x000000000000d158        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .data          0x000000000000d158        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .data          0x000000000000d158        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .data          0x000000000000d158        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .data          0x000000000000d158        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .data          0x000000000000d158        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+                0x0000000000015158                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata._global_impure_ptr
+                0x000000000000d158        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+                0x000000000000d158                _global_impure_ptr
+ .sdata._impure_ptr
+                0x000000000000d15c        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+                0x000000000000d15c                _impure_ptr
+ .sdata.__malloc_sbrk_base
+                0x000000000000d160        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000d160                __malloc_sbrk_base
+ .sdata.__malloc_trim_threshold
+                0x000000000000d164        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000d164                __malloc_trim_threshold
+ .sdata         0x000000000000d168       0x14 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+                0x000000000000d168                alt_fs_list
+                0x000000000000d170                alt_dev_list
+                0x000000000000d178                alt_max_fd
+ .sdata         0x000000000000d17c        0x4 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+                0x000000000000d17c                alt_errno
+ .sdata         0x000000000000d180        0x4 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x000000000000d184                . = ALIGN (0x4)
+                0x000000000000d184                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x000000000000d184                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x000000000000d184                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x000000000000dbb0       0x44
+                0x000000000000dbb0                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.__malloc_max_total_mem
+                0x000000000000dbb0        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000dbb0                __malloc_max_total_mem
+ .sbss.__malloc_max_sbrked_mem
+                0x000000000000dbb4        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000dbb4                __malloc_max_sbrked_mem
+ .sbss.__malloc_top_pad
+                0x000000000000dbb8        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000dbb8                __malloc_top_pad
+ .sbss          0x000000000000dbbc        0x4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+                0x000000000000dbbc                errno
+ .sbss          0x000000000000dbc0        0xc ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+                0x000000000000dbc0                alt_argc
+                0x000000000000dbc4                alt_argv
+                0x000000000000dbc8                alt_envp
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000000dbcc        0x0 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .bss           0x000000000000dbcc        0x0 obj/default/hello_world.o
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .bss           0x000000000000dbcc        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x000000000000dbcc       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                0x000000000000dbcc                __malloc_current_mallinfo
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .bss           0x000000000000dbf4        0x0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .bss           0x000000000000dbf4        0x0 ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x000000000000dbf4                . = ALIGN (0x4)
+                0x000000000000dbf4                __bss_end = ABSOLUTE (.)
+
+.onchip_memory2_0
+                0x000000000000dbf4        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_start = ABSOLUTE (.))
+ *(.onchip_memory2_0 .onchip_memory2_0. onchip_memory2_0.*)
+                0x000000000000dbf4                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_end = ABSOLUTE (.))
+                0x000000000000dbf4                _end = ABSOLUTE (.)
+                0x000000000000dbf4                end = ABSOLUTE (.)
+                0x000000000000dbf4                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory2_0_load_addr = LOADADDR (.onchip_memory2_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2c
+ *(.comment)
+ .comment       0x0000000000000000       0x2c obj/default/hello_world.o
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .comment       0x000000000000002c       0x2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .comment       0x000000000000002c       0x2d ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x8d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x0000000000000048       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000068       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x0000000000000088       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000000000000b0       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000000d0       0x68 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000158       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x0000000000000180       0x18 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000198       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000218       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000278       0x40 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_aranges
+                0x0000000000000318       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x0000000000000340       0x30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000370       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000398       0x18 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000000000003b0       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000000000003d0       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x00000000000003f8       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000418       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000438       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x0000000000000458       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x0000000000000478       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000498       0x18 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_aranges
+                0x00000000000004f0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000510       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_aranges
+                0x0000000000000530       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000550       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_aranges
+                0x0000000000000570       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .debug_aranges
+                0x0000000000000590       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000000000005b0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_aranges
+                0x00000000000005d0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x00000000000005f0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x0000000000000610       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x0000000000000630       0x20 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x0000000000000650       0x20 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x0000000000000670       0x20 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000690       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x00000000000006b0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000006d0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000000000006f0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x0000000000000710       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x0000000000000730       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000750       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x0000000000000770       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x0000000000000790       0x20 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000000000007b0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000000000007d0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000000000007f0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x0000000000000810       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000830       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000850       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000870       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000890       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000000008b0       0x20 ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x2be0a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022      0x99b obj/default/hello_world.o
+ .debug_info    0x00000000000009bd      0x368 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000000d25       0xcb /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_info    0x0000000000000df0      0xced /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_info    0x0000000000001add      0x97f /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000245c     0x10c5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_info    0x0000000000003521      0xed1 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x00000000000043f2      0xcb0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_info    0x00000000000050a2      0x936 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .debug_info    0x00000000000059d8      0xf39 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000006911      0x9ef /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_info    0x0000000000007300      0xf47 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000008247      0xf3d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000009184      0xf2d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_info    0x000000000000a0b1      0xf15 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_info    0x000000000000afc6      0xa06 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000b9cc      0xe6d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_info    0x000000000000c839      0xa38 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_info    0x000000000000d271      0xbff /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000de70      0x9e3 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_info    0x000000000000e853      0xce5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_info    0x000000000000f538      0xd81 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_info    0x00000000000102b9      0xda6 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_info    0x000000000001105f      0x92c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .debug_info    0x000000000001198b      0xa19 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_info    0x00000000000123a4      0xf81 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_info    0x0000000000013325      0xa31 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_info    0x0000000000013d56      0xc30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_info    0x0000000000014986      0x9e3 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_info    0x0000000000015369      0xc60 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .debug_info    0x0000000000015fc9      0xe95 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_info    0x0000000000016e5e      0x972 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00000000000177d0      0xe38 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_info    0x0000000000018608      0xe3b ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_info    0x0000000000019443      0x9f5 ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000019e38      0xc95 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_info    0x000000000001aacd      0xe76 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .debug_info    0x000000000001b943      0x95c ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_info    0x000000000001c29f      0xeb1 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .debug_info    0x000000000001d150      0x2e9 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x000000000001d439      0xa6b ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_info    0x000000000001dea4      0x10b ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x000000000001dfaf      0xeb8 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .debug_info    0x000000000001ee67      0xca5 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x000000000001fb0c      0x3cd ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x000000000001fed9      0xab7 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000000000020990      0xa93 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000021423      0x972 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x0000000000021d95      0x934 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00000000000226c9      0xa6e ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000000000023137       0x88 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00000000000231bf       0x88 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x0000000000023247      0x934 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000023b7b      0xe75 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00000000000249f0      0xc9f ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .debug_info    0x000000000002568f      0x955 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000025fe4      0xbb2 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x0000000000026b96      0xba3 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x0000000000027739      0xbea ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000000000028323      0x9a1 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_info    0x0000000000028cc4      0x9dc /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_info    0x00000000000296a0      0x9ce /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_info    0x000000000002a06e      0x9db /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_info    0x000000000002aa49      0xa17 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x000000000002b460      0x9aa ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x8cd4
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x212 obj/default/hello_world.o
+ .debug_abbrev  0x0000000000000224      0x103 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x0000000000000327       0x7d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x00000000000003a4      0x2ba /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_abbrev  0x000000000000065e      0x1f9 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000857      0x475 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000000ccc      0x2cd /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000000f99      0x25f /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00000000000011f8      0x1c9 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000013c1      0x321 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00000000000016e2      0x226 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000001908      0x223 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000001b2b      0x21c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000001d47      0x228 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001f6f      0x2a1 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x0000000000002210      0x261 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000002471      0x2be /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x000000000000272f      0x23b /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x000000000000296a      0x294 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x0000000000002bfe      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_abbrev  0x0000000000002e34      0x33a /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x000000000000316e      0x322 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000003490      0x2c9 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000000000003759      0x1d5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x000000000000392e      0x24a /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x0000000000003b78      0x340 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x0000000000003eb8      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x00000000000040ee      0x24a /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000004338      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x000000000000456e      0x23f ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00000000000047ad      0x212 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000000000049bf      0x1df ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000004b9e      0x23f ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_abbrev  0x0000000000004ddd      0x23f ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_abbrev  0x000000000000501c      0x21c ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000005238      0x23f ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_abbrev  0x0000000000005477      0x21e ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000005695      0x1fa ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_abbrev  0x000000000000588f      0x250 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .debug_abbrev  0x0000000000005adf       0xea ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x0000000000005bc9      0x285 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_abbrev  0x0000000000005e4e       0x82 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x0000000000005ed0      0x255 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x0000000000006125      0x27e ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000063a3      0x125 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000000000064c8      0x23b ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x0000000000006703      0x234 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000006937      0x202 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x0000000000006b39      0x1e0 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000006d19      0x268 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000006f81       0x81 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x0000000000007002       0x81 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x0000000000007083      0x1e0 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000007263      0x232 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000000000007495      0x26c ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x0000000000007701      0x1e5 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000078e6      0x21a ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000007b00      0x21a ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000000000007d1a      0x22d ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x0000000000007f47      0x243 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x000000000000818a      0x230 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00000000000083ba      0x1fe /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00000000000085b8      0x263 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x000000000000881b      0x26c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000008a87      0x24d ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0xb023
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x1bc obj/default/hello_world.o
+ .debug_line    0x0000000000000222      0x2f9 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_line    0x000000000000051b       0xb6 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_line    0x00000000000005d1      0x332 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_line    0x0000000000000903      0x262 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000b65      0x689 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_line    0x00000000000011ee      0x6f9 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x00000000000018e7      0x396 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000001c7d      0x166 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000001de3      0x927 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_line    0x000000000000270a      0x2b6 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_line    0x00000000000029c0      0x328 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000002ce8      0x361 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000003049      0x350 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_line    0x0000000000003399      0x759 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000003af2      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000003d28      0x35b /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_line    0x0000000000004083      0x237 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_line    0x00000000000042ba      0x3a0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_line    0x000000000000465a      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_line    0x0000000000004890      0x322 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_line    0x0000000000004bb2      0x507 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_line    0x00000000000050b9      0x5c5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_line    0x000000000000567e      0x1d8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000005856      0x237 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_line    0x0000000000005a8d      0x480 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_line    0x0000000000005f0d      0x236 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_line    0x0000000000006143      0x2f2 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_line    0x0000000000006435      0x237 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_line    0x000000000000666c      0x25c ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .debug_line    0x00000000000068c8      0x2c1 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000006b89      0x14f ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000006cd8      0x32b ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_line    0x0000000000007003      0x32d ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_line    0x0000000000007330      0x1ff ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .debug_line    0x000000000000752f      0x241 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_line    0x0000000000007770      0x2f8 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000007a68      0x142 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_line    0x0000000000007baa      0x35c ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .debug_line    0x0000000000007f06       0xb6 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000000000007fbc      0x1cd ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_line    0x0000000000008189       0xce ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x0000000000008257      0x35f ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .debug_line    0x00000000000085b6      0x233 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000087e9      0x120 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000000000008909      0x285 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000000000008b8e      0x263 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000008df1      0x1d4 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x0000000000008fc5      0x1ac ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000009171      0x204 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000000000009375       0x66 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00000000000093db       0x66 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x0000000000009441      0x1aa ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x00000000000095eb      0x2e9 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x00000000000098d4      0x29f ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .debug_line    0x0000000000009b73      0x155 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x0000000000009cc8      0x1c8 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000009e90      0x1f6 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x000000000000a086      0x1f9 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x000000000000a27f      0x201 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_line    0x000000000000a480      0x229 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_line    0x000000000000a6a9      0x26d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_line    0x000000000000a916      0x289 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_line    0x000000000000ab9f      0x301 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000000000000aea0      0x183 ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000     0x1214
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x2c obj/default/hello_world.o
+ .debug_frame   0x000000000000002c       0x50 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000000000000007c       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_frame   0x000000000000009c       0x48 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_frame   0x00000000000000e4       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000104      0x124 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000228       0x7c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000000002a4       0x74 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000318       0x58 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000370       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000390       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000000003b0       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000003d0       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000003f0       0x70 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000000460       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x000000000000049c       0xb8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000554       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000590       0x38 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000005c8       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_frame   0x0000000000000604       0x4c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000000650       0x7c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000006cc       0x78 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000744       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000780       0x68 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000007e8       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000824       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000000860       0x3c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x000000000000089c       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000000000008fc       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x0000000000000930       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_frame   0x0000000000000990       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_frame   0x00000000000009f0       0x5c ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000a4c       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_frame   0x0000000000000aac       0x2c ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000ad8       0x58 ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_frame   0x0000000000000b30       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+ .debug_frame   0x0000000000000b90       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000000000000bc4       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_frame   0x0000000000000bf8       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x0000000000000c30       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+ .debug_frame   0x0000000000000c90       0x88 ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000d18       0x60 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x0000000000000d78       0x34 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x0000000000000dac       0x34 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000000000000de0       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x0000000000000e18       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000e4c       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x0000000000000eac       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x0000000000000ee4       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x0000000000000f1c       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000f50       0x60 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x0000000000000fb0       0x84 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+ .debug_frame   0x0000000000001034       0x34 ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000001068       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000010a0       0x38 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x00000000000010d8       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000000000000110c       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000000000000112c       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000001154       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000001174       0x20 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000001194       0x54 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000011e8       0x2c ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x2487
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x6b ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_str     0x000000000000006b      0x486 obj/default/hello_world.o
+                                        0x53c (size before relaxing)
+ .debug_str     0x00000000000004f1      0x194 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+                                        0x1df (size before relaxing)
+ .debug_str     0x0000000000000685       0x42 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+                                        0x1a0 (size before relaxing)
+ .debug_str     0x00000000000006c7      0x2d3 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+                                        0x76b (size before relaxing)
+ .debug_str     0x000000000000099a       0xdd /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+                                        0x5cd (size before relaxing)
+ .debug_str     0x0000000000000a77      0x1b5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+                                        0x889 (size before relaxing)
+ .debug_str     0x0000000000000c2c       0xa6 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+                                        0x7ca (size before relaxing)
+ .debug_str     0x0000000000000cd2       0x4c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+                                        0x72c (size before relaxing)
+ .debug_str     0x0000000000000d1e       0xda /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-impure.o)
+                                        0x5b6 (size before relaxing)
+ .debug_str     0x0000000000000df8      0x2bf /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+                                        0x81e (size before relaxing)
+ .debug_str     0x00000000000010b7       0x59 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+                                        0x5d4 (size before relaxing)
+ .debug_str     0x0000000000001110      0x2d1 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+                                        0x8f6 (size before relaxing)
+ .debug_str     0x00000000000013e1       0x49 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+                                        0x902 (size before relaxing)
+ .debug_str     0x000000000000142a       0x46 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+                                        0x8e3 (size before relaxing)
+ .debug_str     0x0000000000001470       0x4e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+                                        0x7d5 (size before relaxing)
+ .debug_str     0x00000000000014be       0x51 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+                                        0x5f8 (size before relaxing)
+ .debug_str     0x000000000000150f       0x9d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+                                        0x780 (size before relaxing)
+ .debug_str     0x00000000000015ac       0x3e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+                                        0x5fc (size before relaxing)
+ .debug_str     0x00000000000015ea       0x4b /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+                                        0x73a (size before relaxing)
+ .debug_str     0x0000000000001635       0x3e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+                                        0x5ec (size before relaxing)
+ .debug_str     0x0000000000001673       0x5f /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+                                        0x751 (size before relaxing)
+ .debug_str     0x00000000000016d2       0x56 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+                                        0x768 (size before relaxing)
+ .debug_str     0x0000000000001728       0x34 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+                                        0x797 (size before relaxing)
+ .debug_str     0x000000000000175c       0x41 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-int_errno.o)
+                                        0x5bd (size before relaxing)
+ .debug_str     0x000000000000179d       0x44 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+                                        0x5f3 (size before relaxing)
+ .debug_str     0x00000000000017e1      0x177 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+                                        0x8ad (size before relaxing)
+ .debug_str     0x0000000000001958       0x3d /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+                                        0x5f9 (size before relaxing)
+ .debug_str     0x0000000000001995       0x4a /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+                                        0x753 (size before relaxing)
+ .debug_str     0x00000000000019df       0x46 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+                                        0x5ef (size before relaxing)
+ .debug_str     0x0000000000001a25       0xc9 ../niosLab2_bsp//libhal_bsp.a(alt_close.o)
+                                        0x65f (size before relaxing)
+ .debug_str     0x0000000000001aee       0x32 ../niosLab2_bsp//libhal_bsp.a(alt_dev.o)
+                                        0x7af (size before relaxing)
+ .debug_str     0x0000000000001b20       0x14 ../niosLab2_bsp//libhal_bsp.a(alt_errno.o)
+                                        0x54e (size before relaxing)
+ .debug_str     0x0000000000001b34       0x14 ../niosLab2_bsp//libhal_bsp.a(alt_fstat.o)
+                                        0x787 (size before relaxing)
+ .debug_str     0x0000000000001b48       0x15 ../niosLab2_bsp//libhal_bsp.a(alt_isatty.o)
+                                        0x78f (size before relaxing)
+ .debug_str     0x0000000000001b5d       0xf1 ../niosLab2_bsp//libhal_bsp.a(alt_load.o)
+                                        0x60e (size before relaxing)
+ .debug_str     0x0000000000001c4e       0x14 ../niosLab2_bsp//libhal_bsp.a(alt_lseek.o)
+                                        0x666 (size before relaxing)
+ .debug_str     0x0000000000001c62       0x44 ../niosLab2_bsp//libhal_bsp.a(alt_main.o)
+                                        0x7d2 (size before relaxing)
+ .debug_str     0x0000000000001ca6       0x1a ../niosLab2_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                                        0x54b (size before relaxing)
+ .debug_str     0x0000000000001cc0       0x13 ../niosLab2_bsp//libhal_bsp.a(alt_read.o)
+                                        0x7bf (size before relaxing)
+ .debug_str     0x0000000000001cd3       0x28 ../niosLab2_bsp//libhal_bsp.a(alt_release_fd.o)
+                                        0x20d (size before relaxing)
+ .debug_str     0x0000000000001cfb       0x98 ../niosLab2_bsp//libhal_bsp.a(alt_sbrk.o)
+                                        0x5dd (size before relaxing)
+ .debug_str     0x0000000000001d93       0x22 ../niosLab2_bsp//libhal_bsp.a(alt_usleep.o)
+                                        0x195 (size before relaxing)
+ .debug_str     0x0000000000001db5       0x14 ../niosLab2_bsp//libhal_bsp.a(alt_write.o)
+                                        0x7c0 (size before relaxing)
+ .debug_str     0x0000000000001dc9      0x10f ../niosLab2_bsp//libhal_bsp.a(alt_sys_init.o)
+                                        0x6ec (size before relaxing)
+ .debug_str     0x0000000000001ed8       0x6a ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x2f3 (size before relaxing)
+ .debug_str     0x0000000000001f42       0x48 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x646 (size before relaxing)
+ .debug_str     0x0000000000001f8a       0x4a ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x63c (size before relaxing)
+ .debug_str     0x0000000000001fd4       0x42 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                                        0x55d (size before relaxing)
+ .debug_str     0x0000000000002016       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x551 (size before relaxing)
+ .debug_str     0x000000000000204a       0x4b ../niosLab2_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x5d5 (size before relaxing)
+ .debug_str     0x0000000000002095       0x48 ../niosLab2_bsp//libhal_bsp.a(alt_do_ctors.o)
+                                         0xec (size before relaxing)
+ .debug_str     0x00000000000020dd       0x4c ../niosLab2_bsp//libhal_bsp.a(alt_do_dtors.o)
+                                         0xeb (size before relaxing)
+ .debug_str     0x0000000000002129       0x34 ../niosLab2_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x551 (size before relaxing)
+ .debug_str     0x000000000000215d       0x56 ../niosLab2_bsp//libhal_bsp.a(alt_io_redirect.o)
+                                        0x7c7 (size before relaxing)
+ .debug_str     0x00000000000021b3       0x30 ../niosLab2_bsp//libhal_bsp.a(alt_open.o)
+                                        0x660 (size before relaxing)
+ .debug_str     0x00000000000021e3       0x3b ../niosLab2_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x565 (size before relaxing)
+ .debug_str     0x000000000000221e       0x24 ../niosLab2_bsp//libhal_bsp.a(alt_find_dev.o)
+                                        0x601 (size before relaxing)
+ .debug_str     0x0000000000002242       0x26 ../niosLab2_bsp//libhal_bsp.a(alt_find_file.o)
+                                        0x603 (size before relaxing)
+ .debug_str     0x0000000000002268       0x30 ../niosLab2_bsp//libhal_bsp.a(alt_get_fd.o)
+                                        0x631 (size before relaxing)
+ .debug_str     0x0000000000002298       0x83 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+                                        0x601 (size before relaxing)
+ .debug_str     0x000000000000231b       0x4e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+                                        0x602 (size before relaxing)
+ .debug_str     0x0000000000002369       0x46 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+                                        0x5ba (size before relaxing)
+ .debug_str     0x00000000000023af       0x5a /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+                                        0x61f (size before relaxing)
+ .debug_str     0x0000000000002409       0x54 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+                                        0x5ff (size before relaxing)
+ .debug_str     0x000000000000245d       0x2a ../niosLab2_bsp//libhal_bsp.a(alt_exit.o)
+                                        0x55a (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x5a1d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x5d0 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00000000000005d0       0xa7 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-mul.o)
+ .debug_loc     0x0000000000000677      0x143 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_loc     0x00000000000007ba       0x73 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_loc     0x000000000000082d      0x314 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000000b41      0x6b8 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x00000000000011f9      0x1eb /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x00000000000013e4      0xd34 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000002118      0x240 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_loc     0x0000000000002358      0x347 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x000000000000269f      0x3ff /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000002a9e      0x1b5 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_loc     0x0000000000002c53     0x11ff /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x0000000000003e52       0x89 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000003edb      0x43c /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000004317       0xed /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000004404       0xd4 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000044d8       0x89 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_loc     0x0000000000004561      0x179 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_loc     0x00000000000046da      0x38e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000004a68      0x614 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_loc     0x000000000000507c       0xed /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000005169      0x23e /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x00000000000053a7       0xed /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_loc     0x0000000000005494       0xbb /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x000000000000554f       0x89 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x00000000000055d8       0x32 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_loc     0x000000000000560a       0x22 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_loc     0x000000000000562c      0x130 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_loc     0x000000000000575c       0xf7 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000005853      0x1ca /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x40
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000010       0x30 ../niosLab2_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000000010000                __alt_data_end = 0x10000
+                0x0000000000010000                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                0x000000000000dbf4                PROVIDE (__alt_heap_start = end)
+                0x0000000000010000                PROVIDE (__alt_heap_limit = 0x10000)
+OUTPUT(niosLab2.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x648
+ .debug_ranges  0x0000000000000000       0x20 ../niosLab2_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x70 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul/libgcc.a(lib2-divmod.o)
+ .debug_ranges  0x0000000000000090       0x30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-puts.o)
+ .debug_ranges  0x00000000000000c0       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000d0      0x130 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000000200       0x28 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x0000000000000228       0x18 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fwalk.o)
+ .debug_ranges  0x0000000000000240       0x48 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000288       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memchr.o)
+ .debug_ranges  0x0000000000000298       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x00000000000002a8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memmove.o)
+ .debug_ranges  0x00000000000002b8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memset.o)
+ .debug_ranges  0x00000000000002c8      0x138 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000000400       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x0000000000000410       0x30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-stdio.o)
+ .debug_ranges  0x0000000000000440       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-writer.o)
+ .debug_ranges  0x0000000000000450       0x30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000480       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(closer.o)
+ .debug_ranges  0x0000000000000490       0x48 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x00000000000004d8       0x78 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000550       0x18 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-freer.o)
+ .debug_ranges  0x0000000000000568       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x0000000000000578       0x18 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-makebuf.o)
+ .debug_ranges  0x0000000000000590       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-readr.o)
+ .debug_ranges  0x00000000000005a0       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-fstatr.o)
+ .debug_ranges  0x00000000000005b0       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-isattyr.o)
+ .debug_ranges  0x00000000000005c0       0x18 ../niosLab2_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_ranges  0x00000000000005d8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-atexit.o)
+ .debug_ranges  0x00000000000005e8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-exit.o)
+ .debug_ranges  0x00000000000005f8       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-memcmp.o)
+ .debug_ranges  0x0000000000000608       0x10 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x0000000000000618       0x30 /home/bilbia/intelFPGA_lite/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/mno-hw-mul/libc.a(lib_a-__call_atexit.o)
